@@ -8,3 +8,6 @@ Contains Python code to plot a graph showing the Speedup against N(the number of
 | 10000  | 1.9998 | 9.991  | 19.962 | 99.020 |
 | 100000 | 1.99998| 9.999  | 19.996 | 99.901 |
 
+With speedup calculated as:
+_SpeedUp =1/(1-P) +P/n_
+
